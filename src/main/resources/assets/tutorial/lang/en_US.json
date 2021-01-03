@@ -1,3 +1,7 @@
 {
-  "item.tutorial.silver_ingot": "Deepak's Silver Ingot"
+  "item.tutorial.silver_ingot": "Deepak's Silver Ingot Item",
+  "item.tutorial.silver_ore": "Deepak's Silver Ore Item",
+  "item.tutorial.silver_block": "Deepak's Silver Block Item",
+  "block.tutorial.silver_block": "Deepak's Silver Block",
+  "block.tutorial.silver_ore": "Deepak's Silver Ore Block"
 }
